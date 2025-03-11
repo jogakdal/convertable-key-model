@@ -13,7 +13,7 @@ pip install convertable-key-model
 이 프로젝트의 전체 소스 코드를 다운 받으시려면 저장소를 클론하고 필요한 종속성을 설치하십시오:
 
 ```sh
-git clone https://github.com/jogakdal/standard-api-response.git
+git clone https://github.com/jogakdal/convertable-key-model.git
 cd <repository-directory>
 pip install -r requirements.txt
 ```
