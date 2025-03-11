@@ -1,0 +1,5 @@
+pydantic~=2.6.1
+inflection
+advanced-python-singleton
+pytest
+standard-api-response
